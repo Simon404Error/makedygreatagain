@@ -2,16 +2,6 @@
 
 一个面向抖音网页版的 Tampermonkey 用户脚本，基于原作者 WhiteSevs 的开源脚本修改。
 
-## 功能
-
-- 视频清晰度偏好保存与恢复。
-- 广告、弹窗、礼物特效、弹幕等页面元素的可选屏蔽。
-- 视频自动播放、全屏、双击动作、播放速度和背景色等设置。
-- 直播地址 `/root/live/` 自动修正为 `/live/`。
-- 直播礼物栏开关，状态可保存并同步到其他直播间。
-- 视频控件自动隐藏，以及换视频重新计时和鼠标移动唤醒。
-- 可选将主站直播入口在新标签页打开，并暂停原页对应预览。
-
 ## 安装
 
 1. 安装 Tampermonkey。
@@ -25,4 +15,6 @@
 
 本项目按 GPL-3.0-only 发布，详见 [LICENSE](LICENSE)。
 
-感谢原作者 [WhiteSevs/TamperMonkeyScript](https://github.com/WhiteSevs/TamperMonkeyScript) 提供基础脚本、架构和通用工具。当前仓库是在其基础上的个人修改版本，问题请优先反馈到本仓库。
+原作者：[WhiteSevs/TamperMonkeyScript](https://github.com/WhiteSevs/TamperMonkeyScript)
+
+当前仓库是在其基础上的个人修改版本，问题请优先反馈到本仓库。
